@@ -18,5 +18,6 @@ public class Main {
 
     public static void testCommit(){
         String k = "Karsten Weihe";
+        String u = "Uhu";
     }
 }
