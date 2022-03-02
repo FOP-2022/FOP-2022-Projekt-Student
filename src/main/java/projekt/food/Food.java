@@ -74,14 +74,14 @@ public interface Food {
      * </p>
      * <ol>
      *     <li>
-     *         <code><pre>
+     *         <code>
      *         void bar(UnaryOperator&lt;Bar&gt; barMutator);
-     *         </pre></code>
+     *         </code>
      *     </li>
      *     <li>
-     *         <code><pre>
+     *         <code>
      *         UnaryOperator&lt;Bar&gt; getBarMutator();
-     *         </pre></code>
+     *         </code>
      *     </li>
      * </ol>
      * <p>
