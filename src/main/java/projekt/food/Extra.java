@@ -25,7 +25,7 @@ public interface Extra<C extends Food.Config> {
     /**
      * Applies the modifications of this extra to the provided {@link C config}.
      *
-     * @param config Config to modify
+     * @param config {@link Food.Config} to modify
      */
     void apply(C config);
 }
